@@ -1,4 +1,5 @@
 # scrum-management
+<<<<<<< HEAD
 
 > A tool to manage a software development team.
 
@@ -16,3 +17,6 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+A tool for managing software development teams.
+>>>>>>> dd44bbcf3ebc3f8322f8d65675e879f08c7bac33
